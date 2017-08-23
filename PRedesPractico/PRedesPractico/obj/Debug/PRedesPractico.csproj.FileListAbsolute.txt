@@ -1,0 +1,2 @@
+Y:\Documents\Visual Studio 2015\Projects\CompProgTests\PRedesPractico\PRedesPractico\bin\Debug\PRedesPractico.exe.config
+\\psf\Home\Documents\Visual Studio 2015\Projects\PRedesPractico\PRedesPractico\bin\Debug\PRedesPractico.exe.config
